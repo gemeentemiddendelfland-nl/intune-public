@@ -23,7 +23,7 @@
 
         #Source directory for device drivers. All drivers in this directory will be injected into the install.wim file.
 
-        $DriverSourceDir = "C:\Drivers\GWL"
+        $DriverSourceDir = "C:\Drivers\MD"
 
         #Directory used to mount and unmount the .wim files.
 
@@ -39,11 +39,11 @@
 
         #Blob storage URL
 
-        $ContainerUrl = "https://raw.githubusercontent.com/gemeentewestland-nl/intune-public/main"
+        $ContainerUrl = "https://raw.githubusercontent.com/gemeentemiddendelfland-nl/intune-public/main"
 
         #Filename for the ISO file
 
-        $ISOFile = "gwl_nl-nl_windows_11_pro_version_22h2_updated_aug_2023_x64_dvd_fa582095.iso"
+        $ISOFile = "md_nl-nl_windows_11_pro_version_22h2_updated_aug_2023_x64_dvd_fa582095.iso"
 
 #endregion
 
