@@ -43,7 +43,7 @@
 
         #Filename for the ISO file
 
-        $ISOFile = "md_nl-nl_windows_11_pro_version_22h2_updated_aug_2023_x64_dvd_fa582095.iso"
+        $ISOFile = "md_nl-nl_windows_11_pro_version_24h2_updated_okt_2024_x64_dvd_x23-69812.iso"
 
 #endregion
 
