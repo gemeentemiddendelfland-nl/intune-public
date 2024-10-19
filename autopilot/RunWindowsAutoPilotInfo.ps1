@@ -6,9 +6,8 @@
    This script install the WindowsAutoPilotInfo script and registers the device in autopilot
         
 .NOTES 
-    Author: Benno Rummens from Login Consultants 
-    Website: http://www.loginconsultants.com 
-    Last Updated: 24/03/2022 
+    Author: Benno Rummens
+    Website: https://www.linkedin.com/in/bennorummens
     Version 1.0 
 
     #DISCLAIMER
